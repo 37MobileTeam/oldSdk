@@ -1,0 +1,2 @@
+include ':app', ':features1', ':features2', ':sqsdk'
+rootProject.name='oldSdk'
